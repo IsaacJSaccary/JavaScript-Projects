@@ -1,0 +1,1 @@
+document.write(600 * 430);   //Multiplying two numbers
